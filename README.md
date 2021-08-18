@@ -1,8 +1,4 @@
 
-Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
-
-![](Logo_CdeCMx.png)
-
 <section class="fdb-block">
   <div class="container">
     <div class="row text-left">
